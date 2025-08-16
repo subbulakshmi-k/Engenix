@@ -7,7 +7,7 @@ const HomePage = () => {
       id: 1,
       name: 'LED Smart Bulbs',
       price: '₹299',
-      image: 'https://images.unsplash.com/photo-1606838512749-b6e5d6e71b9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80',
+      image: 'https://th.bing.com/th/id/OIP.JMHL5DZu1HD3I1uEiX_JWgHaHa?w=192&h=194&c=7&r=0&o=7&pid=1.7&rm=3',
       category: 'Lighting',
       icon: '💡',
       color: 'from-yellow-400 to-orange-500'
@@ -34,7 +34,7 @@ const HomePage = () => {
       id: 4,
       name: 'LED Strip Lights',
       price: '₹599',
-      image: 'https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80',
+      image: 'https://tse2.mm.bing.net/th/id/OIP.GBNxhrIT6eDy4dZ7wEDqawHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
       category: 'Lighting',
       icon: '🌈',
       color: 'from-purple-400 to-pink-500'
@@ -43,7 +43,7 @@ const HomePage = () => {
       id: 5,
       name: 'Smart Switches',
       price: '₹899',
-      image: 'https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80',
+      image: 'https://tse2.mm.bing.net/th/id/OIP.gXKNlIXWYcjHOGcl8xX3gwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3',
       category: 'Smart Home',
       icon: '📱',
       color: 'from-green-400 to-blue-500'
