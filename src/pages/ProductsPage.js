@@ -12,7 +12,7 @@ const ProductsPage = () => {
       id: 1,
       name: 'LED Smart Bulbs',
       price: 300,
-      image: 'https://images.unsplash.com/photo-1565636192180-5ccf7e22cc19?w=400&h=400&fit=crop',
+      image: 'https://th.bing.com/th/id/OIP.JMHL5DZu1HD3I1uEiX_JWgHaHa?w=192&h=194&c=7&r=0&o=7&pid=1.7&rm=3',
       category: 'Lighting',
       description: 'Energy-efficient smart LED bulbs with app control and voice assistant support'
     },
