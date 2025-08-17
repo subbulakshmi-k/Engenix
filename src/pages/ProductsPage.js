@@ -88,6 +88,86 @@ const ProductsPage = () => {
       category: 'Safety',
       description: 'Complete electrical distribution panel with MCB, RCCB and surge protection'
     }
+     {
+      id: 11,
+      name: 'Solar Panels',
+      price: 15999,
+      image: 'https://images.unsplash.com/photo-1509391366360-2e959784a276?w=400&h=400&fit=crop',
+      category: 'Renewable',
+      description: 'High-efficiency monocrystalline solar panels for residential rooftop installation'
+    },
+    {
+      id: 12,
+      name: 'Inverter Battery',
+      price: 8999,
+      image: 'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?w=400&h=400&fit=crop',
+      category: 'Power',
+      description: 'Tubular inverter battery with long backup time and low maintenance'
+    },
+    {
+      id: 13,
+      name: 'Electric Motor',
+      price: 7499,
+      image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=400&h=400&fit=crop',
+      category: 'Industrial',
+      description: 'Single-phase electric motor for pumps, fans and industrial applications'
+    },
+    {
+      id: 14,
+      name: 'Digital Multimeter',
+      price: 1299,
+      image: 'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?w=400&h=400&fit=crop',
+      category: 'Tools',
+      description: 'Professional digital multimeter with auto-ranging and backlit display'
+    },
+    {
+      id: 15,
+      name: 'Cable Ties',
+      price: 99,
+      image: 'https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?w=400&h=400&fit=crop',
+      category: 'Accessories',
+      description: 'Heavy-duty nylon cable ties for cable management and organization'
+    },
+    {
+      id: 16,
+      name: 'LED Tube Light',
+      price: 399,
+      image: 'https://images.unsplash.com/photo-1602837385569-08ac19ec83af?w=400&h=400&fit=crop',
+      category: 'Lighting',
+      description: 'Energy-efficient LED tube lights with 50,000 hours lifespan'
+    },
+    {
+      id: 17,
+      name: 'Power Inverter',
+      price: 12499,
+      image: 'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?w=400&h=400&fit=crop',
+      category: 'Power',
+      description: 'Pure sine wave power inverter with LCD display and overload protection'
+    },
+    {
+      id: 18,
+      name: 'Electrical Tape',
+      price: 49,
+      image: 'https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?w=400&h=400&fit=crop',
+      category: 'Accessories',
+      description: 'PVC electrical insulation tape for wire splicing and protection'
+    },
+    {
+      id: 19,
+      name: 'Socket Wrench Set',
+      price: 899,
+      image: 'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?w=400&h=400&fit=crop',
+      category: 'Tools',
+      description: 'Complete socket wrench set for electrical installation and maintenance'
+    },
+    {
+      id: 20,
+      name: 'Wire Stripper',
+      price: 299,
+      image: 'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?w=400&h=400&fit=crop',
+      category: 'Tools',
+      description: 'Professional wire stripper and crimper for electrical work'
+    },
   ], []);
 
   const categories = ['All', 'Lighting', 'Safety', 'Accessories', 'Appliances'];
