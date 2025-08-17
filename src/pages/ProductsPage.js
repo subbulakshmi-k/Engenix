@@ -87,8 +87,23 @@ const ProductsPage = () => {
       image: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=400&h=400&fit=crop',
       category: 'Safety',
       description: 'Complete electrical distribution panel with MCB, RCCB and surge protection'
-    }
-    }
+    },
+     {
+      id: 11,
+      name: 'LED Strip Lights',
+      price: 699,
+      image: 'https://images.unsplash.com/photo-1602837385569-08ac19ec83af?w=400&h=400&fit=crop',
+      category: 'Lighting',
+      description: 'Flexible RGB LED strip lights with remote control for decoration and mood lighting'
+    },
+     {
+      id: 12,
+      name: 'LED Strip Lights',
+      price: 699,
+      image: 'https://images.unsplash.com/photo-1602837385569-08ac19ec83af?w=400&h=400&fit=crop',
+      category: 'Lighting',
+      description: 'Flexible RGB LED strip lights with remote control for decoration and mood lighting'
+    },
   ], []);
 
   const categories = ['All', 'Lighting', 'Safety', 'Accessories', 'Appliances'];
