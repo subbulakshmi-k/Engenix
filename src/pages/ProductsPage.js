@@ -90,16 +90,16 @@ const ProductsPage = () => {
     },
      {
       id: 11,
-      name: 'LED Strip Lights',
-      price: 699,
+      name: 'New LED Strip Lights',
+      price: 16999,
       image: 'https://images.unsplash.com/photo-1602837385569-08ac19ec83af?w=400&h=400&fit=crop',
       category: 'Lighting',
       description: 'Flexible RGB LED strip lights with remote control for decoration and mood lighting'
     },
      {
       id: 12,
-      name: 'LED Strip Lights',
-      price: 699,
+      name: 'LED Lights New Models',
+      price: 14599,
       image: 'https://images.unsplash.com/photo-1602837385569-08ac19ec83af?w=400&h=400&fit=crop',
       category: 'Lighting',
       description: 'Flexible RGB LED strip lights with remote control for decoration and mood lighting'
