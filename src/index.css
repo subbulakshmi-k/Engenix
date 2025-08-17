@@ -17,6 +17,18 @@
   --darker-bg: #050510;
   --electric-gradient: linear-gradient(135deg, var(--electric-blue), var(--electric-purple));
   --neon-glow: 0 0 20px currentColor, 0 0 40px currentColor, 0 0 60px currentColor;
+  /* Light Theme Variables */
+  --light-bg: #ffffff;
+  --light-surface: #f8fafc;
+  --light-muted: #f1f5f9;
+  --light-border: #e2e8f0;
+  --light-text: #1e293b;
+  --light-text-muted: #64748b;
+  --light-primary: #3b82f6;
+  --light-secondary: #8b5cf6;
+  --light-accent: #06b6d4;
+  --light-gradient: linear-gradient(135deg, #3b82f6, #8b5cf6);
+
 }
 
 /* Base Styles */
